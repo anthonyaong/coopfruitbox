@@ -4,3 +4,6 @@ Coop Fruit Box is a website game that includes a solo and coop mode. Utilizes si
 Select groups of apples with your cursor. Apples get cleared if the selection sums to 10.
 Strategically choose which groups of apples to clear first as they affect future moves.
 Be fast and plan ahead to maximize your score! Play solo or with a friend: host a lobby and send the invite link.
+
+
+<img src="https://github.com/anthonyaong/coopfruitbox/blob/main/coopfruitbox/wwwroot/tutorial.gif" width="350" height="350" alt="Description of GIF">
